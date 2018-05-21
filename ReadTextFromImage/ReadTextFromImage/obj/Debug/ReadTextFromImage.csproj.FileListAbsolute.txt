@@ -1,0 +1,15 @@
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\x64\liblept172.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\x64\libtesseract304.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\x86\liblept172.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\x86\libtesseract304.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\ReadTextFromImage.exe.config
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\ReadTextFromImage.exe
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\ReadTextFromImage.pdb
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\Tesseract.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\Tesseract.xml
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\obj\Debug\ReadTextFromImage.csprojResolveAssemblyReference.cache
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\obj\Debug\ReadTextFromImage.csproj.CoreCompileInputs.cache
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\obj\Debug\ReadTextFromImage.exe
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\obj\Debug\ReadTextFromImage.pdb
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\IronOcr.dll
+C:\Users\raphael.l.fernandes\source\repos\ReadTextFromImage\ReadTextFromImage\bin\Debug\IronOcr.xml
